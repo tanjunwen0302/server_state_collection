@@ -1,0 +1,12 @@
+{
+  "mode": "server",
+  "username": "windows主机",
+  "client": {
+    "serverIp": "127.0.0.1:3432",
+    "clientKey": "tanjunwen"
+  },
+  "server": {
+    "port": ":3432",
+    "serverKey": "tanjunwen"
+  }
+}
